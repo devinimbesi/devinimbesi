@@ -2,10 +2,6 @@
 Hi there, I'm Devin Imbesi! 👋
 -->
 
-<p align="center">
-  <img src="https://devinimbesi.com/public/images/devin_suit.PNG" alt="Devin Imbesi" width="120" style="border-radius: 50%"/>
-</p>
-
 <h1 align="center">Hi, I'm Devin Imbesi</h1>
 <h3 align="center">Aspiring Web Developer & DevOps Enthusiast | Stuyvesant High School '27</h3>
 
