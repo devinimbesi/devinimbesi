@@ -7,13 +7,13 @@ Hi there, I'm Devin Imbesi! 👋
 
 ---
 
-🌟 **About Me**
+**About Me**
 
 I'm a junior at Stuyvesant High School (Class of 2027) with a passion for technology, web development, and helping small businesses grow through digital solutions. As an up-and-coming web developer and host, I bring a blend of technical expertise, creativity, and a strong work ethic to every project I take on.
 
 ---
 
-🛠️ **Tech Stack**
+**Tech Stack**
 
 - **Languages:** TypeScript, JavaScript, HTML, CSS, Java
 - **Frameworks & Tools:** React, Framer, Vercel, Supabase, DigitalOcean
@@ -21,7 +21,7 @@ I'm a junior at Stuyvesant High School (Class of 2027) with a passion for techno
 
 ---
 
-🚀 **Interests & Goals**
+**Interests & Goals**
 
 - Building responsive, modern web applications
 - Deploying and optimizing cloud-based infrastructure
@@ -30,7 +30,7 @@ I'm a junior at Stuyvesant High School (Class of 2027) with a passion for techno
 
 ---
 
-📫 **Get in Touch**
+**Get in Touch**
 
 - 🌐 [devinimbesi.com](https://devinimbesi.com)
 - 📧 devin@devinimbesi.com
